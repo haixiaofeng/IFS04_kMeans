@@ -1,8 +1,8 @@
-### Implementation From Scratch: K-Means Clustering & Principal Component Analysis
+### Implementation From Scratch: K-Means Algorithm
  
 Mini project for theoritical understanding
 </br>
 </br>
 
-  - [KMeansAndPCA.ipynb]()
+  - [KMeans.ipynb]()
   - [data]()
